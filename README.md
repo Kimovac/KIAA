@@ -2,7 +2,7 @@
 
 Alogorithms and data structures form course KIAA.
 
-* bfs graph traversal (bfs.cpp) \n
+* bfs graph traversal [(bfs.cpp)](./bfs.cpp)
 * dfs graph traversal (dfs.cpp)
 * djikstra algortihm (dijstra.cpp)
 * fenwick tree (fenwick_tree.cpp)
