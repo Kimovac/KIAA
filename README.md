@@ -10,4 +10,4 @@ Alogorithms and data structures form course KIAA:
 * trie algorithm used for finding the longest autocomplete [(longest_autocomplete.cpp)](./longest_autocomplete.cpp)
 * alogortihm for constructing a simple polygon [(simple_polygon.cpp)](./simple_polygon.cpp)
 * algorithm that checks if a graph is bipartite [(is_bipartite_graph.cpp)](./is_bipartite_graph.cpp)
-* algortihm for finding a convex hull from a set of points using graham scan[(convex_hull.cpp)](./convex_hull.cpp)
+* algortihm for finding a convex hull from a set of points using graham's scan[(convex_hull.cpp)](./convex_hull.cpp)
